@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+local = 'ja-jp'
+title = 'Diary'
+theme = 'hugo-simple'
