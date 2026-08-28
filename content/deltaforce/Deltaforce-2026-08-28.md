@@ -1,8 +1,11 @@
 +++
 date = '2026-08-28T00:00:00+09:00'
-draft = true
+draft = false
 title = 'Delta Force Diary 2026 08 28'
 +++
 
-Fri Aug 28 04:26:22 JST 2026
+Fri Aug 28 21:41:22 JST 2026
 
+今のところこんな装備。
+
+![DeltaForceのスクリーンショット](/images/2026/08/Deltaforce2026-08-28-213731.jpg)

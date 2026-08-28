@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://diary-een.pages.dev/'
 local = 'ja-jp'
 title = "雨にぬれても's Diary"
 theme = 'hugo-simple'
+
+[[menus.main]]
+name = "Home"
+url = "/"
+weight = 10

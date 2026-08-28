@@ -23,4 +23,11 @@
   {{ end }}
 </ul>
 
+<h2>War Thunder</h2>
+<ul>
+  {{ range first 5 (where .Site.RegularPages "Section" "warthunder") }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+
 {{ end }}
