@@ -1,6 +1,6 @@
 +++
 date = '2026-08-28T00:00:00+09:00'
-draft = false
+draft = true
 title = 'Delta Force Diary 2026 08 28'
 +++
 
