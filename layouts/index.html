@@ -2,11 +2,24 @@
 
 <h1>{{ .Site.Title }}</h1>
 
+<h2>Diary</h2>
 <ul>
-  {{ range where .Site.RegularPages "Section" "posts" }}
-    <li>
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </li>
+  {{ range first 5 (where .Site.RegularPages "Section" "diary") }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+
+<h2>Escape from Tarkov</h2>
+<ul>
+  {{ range first 5 (where .Site.RegularPages "Section" "tarkov") }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+
+<h2>Delta Force</h2>
+<ul>
+  {{ range first 5 (where .Site.RegularPages "Section" "deltaforce") }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 
