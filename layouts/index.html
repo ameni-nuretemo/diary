@@ -30,4 +30,11 @@
   {{ end }}
 </ul>
 
+<h2>Palia</h2>
+<ul>
+  {{ range first 5 (where .Site.RegularPages "Section" "palia") }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+
 {{ end }}
