@@ -1,7 +1,7 @@
 +++
 date = '2026-08-28T00:00:00+09:00'
 draft = false
-title = 'Delta Force Diary 2026 08 28'
+title = 'Delta Force とある傭兵の記録 2026 08 28'
 +++
 
 Fri Aug 28 21:41:22 JST 2026
