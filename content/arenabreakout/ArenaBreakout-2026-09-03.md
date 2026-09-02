@@ -1,7 +1,7 @@
 +++
-date = '2026-09-02T00:00:00+09:00'
+date = '2026-09-03T00:00:00+09:00'
 draft = false
-title = 'Arena Breakout とある傭兵の記録 2026 09 02'
+title = 'Arena Breakout とある傭兵の記録 2026 09 03'
 +++
 
 ---
