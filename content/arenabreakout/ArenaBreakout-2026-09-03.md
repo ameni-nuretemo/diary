@@ -18,6 +18,6 @@ Thu Sep 03 05:11:50 JST 2026
 
 武器の差も腕も負けてたな。
 
-{{< youtube j5cNb7otpEs >}}
+{{< youtube -WN6hH7x0VA >}}
 
 ---
