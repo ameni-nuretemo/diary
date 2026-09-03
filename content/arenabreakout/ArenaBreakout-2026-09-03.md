@@ -18,6 +18,6 @@ Thu Sep 03 05:11:50 JST 2026
 
 武器の差も腕も負けてたな。
 
-![Arena Breakout infinitのスクリーンショット](/images/2026/09/ABI-2026-09-03-05h16m55s266.jpg)
+[![Arena Breakout infinitのYoutube](https://www.youtube.com/watch?v=j5cNb7otpEs)](https://youtu.be/j5cNb7otpEs?si=cE3lb1-oVbV5BfoQ)
 
 ---
