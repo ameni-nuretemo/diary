@@ -4,35 +4,35 @@
 
 <h2>Diary</h2>
 <ul>
-  {{ range first 5 (where .Site.RegularPages "Section" "diary") }}
+  {{ range first 10 (where .Site.RegularPages "Section" "diary") }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 
 <h2>Escape from Tarkov</h2>
 <ul>
-  {{ range first 5 (where .Site.RegularPages "Section" "tarkov") }}
+  {{ range first 3 (where .Site.RegularPages "Section" "tarkov") }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 
 <h2>Delta Force</h2>
 <ul>
-  {{ range first 5 (where .Site.RegularPages "Section" "deltaforce") }}
+  {{ range first 3 (where .Site.RegularPages "Section" "deltaforce") }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 
 <h2>Arena Breakout inifinite</h2>
 <ul>
-  {{ range first 5 (where .Site.RegularPages "Section" "arenabreakout") }}
+  {{ range first 3 (where .Site.RegularPages "Section" "arenabreakout") }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 
 <h2>War Thunder</h2>
 <ul>
-  {{ range first 5 (where .Site.RegularPages "Section" "warthunder") }}
+  {{ range first 3 (where .Site.RegularPages "Section" "warthunder") }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
